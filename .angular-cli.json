@@ -19,7 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "styles.css",
+        "https://api.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
